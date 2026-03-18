@@ -1,4 +1,4 @@
-from langchain.openai import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain_core.messages import HumanMessage, SystemMessage
 import streamlit as st 
